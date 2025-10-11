@@ -39,32 +39,38 @@
         </thead>
         <tbody>
           <tr>
-            <td class="file-icon"><i class="fa-solid fa-file-pdf"></i></td>
-            <td class="mono"><a href="sample.pdf">sample.pdf</a></td>
-            <td>PDF</td>
+            <td class="file-icon"><i class="fa-solid fa-file-code"></i></td>
+            <td class="mono"><a href="addition.html">addition.html</a></td>
+            <td>HTML</td>
             <td>—</td>
           </tr>
           <tr>
             <td class="file-icon"><i class="fa-solid fa-file-image"></i></td>
-            <td class="mono"><a href="hello.jpg">hello.jpg</a></td>
+            <td class="mono"><a href="happy.jpg">happy.jpg</a></td>
             <td>Image (JPG)</td>
             <td>—</td>
           </tr>
           <tr>
             <td class="file-icon"><i class="fa-solid fa-file-code"></i></td>
-            <td class="mono"><a href="demo.html">demo.html</a></td>
-            <td>HTML</td>
-            <td>—</td>
-          </tr>
-          <tr>
-            <td class="file-icon"><i class="fa-solid fa-file-code"></i></td>
-            <td class="mono"><a href="data.json">data.json</a></td>
+            <td class="mono"><a href="new.json">new.json</a></td>
             <td>JSON</td>
             <td>—</td>
           </tr>
           <tr>
+            <td class="file-icon"><i class="fa-solid fa-file-pdf"></i></td>
+            <td class="mono"><a href="pdf.pdf">pdf.pdf</a></td>
+            <td>PDF</td>
+            <td>—</td>
+          </tr>
+          <tr>
+            <td class="file-icon"><i class="fa-solid fa-file-pdf"></i></td>
+            <td class="mono"><a href="pic.pdf">pic.pdf</a></td>
+            <td>PDF</td>
+            <td>—</td>
+          </tr>
+          <tr>
             <td class="file-icon"><i class="fa-solid fa-file-lines"></i></td>
-            <td class="mono"><a href="notes.txt">notes.txt</a></td>
+            <td class="mono"><a href="plain.txt">plain.txt</a></td>
             <td>Plain text</td>
             <td>—</td>
           </tr>
@@ -73,9 +79,9 @@
 
       <h2>Browser Observations</h2>
       <ul>
-        <li>PDF opened in a built-in viewer with its own toolbar.</li>
-        <li>Images (JPG/PNG/GIF) rendered directly in the browser tab.</li>
-        <li>JSON and TXT displayed as raw text; HTML rendered the page layout.</li>
+        <li>PDF files opened in the built-in viewer with options to zoom and download.</li>
+        <li>Images (like happy.jpg) displayed directly in the browser tab.</li>
+        <li>JSON and TXT files showed plain text; HTML rendered as a webpage.</li>
       </ul>
 
       <footer>
