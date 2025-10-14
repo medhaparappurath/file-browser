@@ -58,12 +58,6 @@
           </tr>
           <tr>
             <td class="file-icon"><i class="fa-solid fa-file-pdf"></i></td>
-            <td class="mono"><a href="pdf.pdf">pdf.pdf</a></td>
-            <td>PDF</td>
-            <td>—</td>
-          </tr>
-          <tr>
-            <td class="file-icon"><i class="fa-solid fa-file-pdf"></i></td>
             <td class="mono"><a href="pic.pdf">pic.pdf</a></td>
             <td>PDF</td>
             <td>—</td>
